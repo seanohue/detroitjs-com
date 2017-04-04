@@ -1,8 +1,4 @@
-# node / npm
-node_modules
+.next/
+node_modules/
 *.log
-.DS_Store
-
-# phenomic build
-dist
-*.bundle.js
+*.idea

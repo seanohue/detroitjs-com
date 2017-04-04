@@ -1,19 +1,17 @@
-# [Phenomic](https://github.com/MoOx/phenomic) boilerplate
+# DetroitJS Website
 
-## Install dependencies
+Powered by [Nextjs](https://github.com/zeit/next.js) and [Tachyons](http://tachyons.io)
 
-```console
-$ npm install
-```
+# Setup
+## Development
+`npm i` or `yarn install`
 
-## Run development server
+## Production
+`npm i --production` or `yarn install --production`
 
-```console
-$ npm start
-```
+# Usage
+## Development
+`npm run dev`
 
-## Build for production
-
-```console
-$ npm run build
-```
+## Production
+`npm run build` then `npm start`
